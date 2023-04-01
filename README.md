@@ -3,7 +3,7 @@
 ## README
 This Jupyter notebook contains code for extracting historical price data for Ethereum (ETH) from the CryptoCompare API, creating a machine learning model to predict the price of ETH based on the historical data, and storing the predictions in a SQLite database.
 
-* Dependencies
+## Dependencies
 * requests
 * json
 * pandas
