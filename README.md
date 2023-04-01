@@ -10,6 +10,7 @@ This Jupyter notebook contains code for extracting historical price data for Eth
 * scikit-learn
 * matplotlib
 * sqlite3
+
 Make sure to install these dependencies before running the code.
 
 # Code Overview
